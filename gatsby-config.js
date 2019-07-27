@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Tour de Brunch`,
     author: `Kyle Mathews`,
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `asdf`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
     social: {
       twitter: `kylemathews`,
