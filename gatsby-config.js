@@ -1,11 +1,10 @@
 module.exports = {
   siteMetadata: {
     title: `Tour de Brunch`,
-    author: `Kyle Mathews`,
-    description: `asdf`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    author: `Brunch Buddies`,
+    description: `Premier COMO Brunch Blog`,
+    siteUrl: `https://tourdebrunch.onrender.com`,
     social: {
-      twitter: `kylemathews`,
     },
   },
   plugins: [
